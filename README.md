@@ -10,5 +10,5 @@ Banyak mata kuliah wajib Tahap Persiapan Bersama atau TPB yang dihadapi oleh Mah
 3. ketik di terminal: npm install dan npm install react-router-dom firebase
 4. run code dengan mengetik: npm run dev
 
-**Run Sementara**
-http://localhost:5175/
+**Link website**
+https://tugas-pawm-three.vercel.app/
