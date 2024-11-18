@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "./login.css";
+import "./Login.css";
 import firebaseApp from "../../lib/firebase";
-import { getDatabase, ref, child, get } from "firebase/database";
+import { getDatabase, ref, get } from "firebase/database";
 
 const Login = () => {
   const navigate = useNavigate();
